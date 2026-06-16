@@ -26,4 +26,4 @@ for index, cell in enumerate(notebook.get("cells", [])):
         traceback.print_exc()
         raise SystemExit(1)
 
-print("\nNotebook completed successfully.")
+print("\nNotebook completed successfully. ")
